@@ -1,0 +1,322 @@
+{
+    "version": "1.0.0",
+    "discord": {
+      "clientId": "",
+      "smallImageText": "",
+      "smallImageKey": ""
+    },
+    "java": {
+      "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+    },
+    "rss": "",
+    "servers": [
+      {
+        "id": "AgeOfAincrad",
+        "name": "AgeOfAincrad",
+        "description": "AgeOfAincrad Server.",
+        "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+        "version": "1.0",
+        "address": "45.142.178.232:25565",
+        "minecraftVersion": "1.12.2",
+        "discord": {
+          "shortId": "1.12.2 Production Server",
+          "largeImageText": "WesterosCraft 1.12.2 Production Server",
+          "largeImageKey": "server-prod"
+        },
+        "mainServer": true,
+        "autoconnect": true,
+        "modules": [
+          {
+            "id": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
+            "name": "Minecraft Forge",
+            "type": "ForgeHosted",
+            "artifact": {
+              "size": 4884700,
+              "MD5": "90734a5a713e24902d24c45c15caa42c",
+              "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar"
+            },
+            "subModules": [
+              {
+                "id": "net.minecraft:launchwrapper:1.12",
+                "name": "Mojang (LaunchWrapper)",
+                "type": "Library",
+                "artifact": {
+                  "size": 32999,
+                  "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar"
+                }
+              },
+              {
+                "id": "org.ow2.asm:asm-all:5.2",
+                "name": "Mojang (ASM)",
+                "type": "Library",
+                "artifact": {
+                  "size": 247787,
+                  "MD5": "f5ad16c7f0338b541978b0430d51dc83",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/asm-all-5.2.jar"
+                }
+              },
+              {
+                "id": "jline:jline:2.13",
+                "name": "Mojang (jline)",
+                "type": "Library",
+                "artifact": {
+                  "size": 248566,
+                  "MD5": "f251ba666cccb260ff7215b2cbeee8d4",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jline-2.13.jar"
+                }
+              },
+              {
+                "id": "org.scala-lang:scala-library:2.11.1@jar.pack.xz",
+                "name": "Minecraft Forge (scala-library)",
+                "type": "Library",
+                "artifact": {
+                  "size": 1474672,
+                  "MD5": "379c15c4f724421c6d5d7aecedaf87a6",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-library-2.11.1.jar.pack.xz"
+                }
+              },
+              {
+                "id": "org.scala-lang:scala-compiler:2.11.1@jar.pack.xz",
+                "name": "Minecraft Forge (scala-compiler)",
+                "type": "Library",
+                "artifact": {
+                  "size": 3076920,
+                  "MD5": "7d89e952f2d5c74577310cd2c28e3f20",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-compiler-2.11.1.jar.pack.xz"
+                }
+              },
+              {
+                "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar.pack.xz",
+                "name": "Minecraft Forge (scala-actors-migration)",
+                "type": "Library",
+                "artifact": {
+                  "size": 21324,
+                  "MD5": "04e3428b2600ace33c7ae2bf1f6c0a4c",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
+                }
+              },
+              {
+                "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2@jar.pack.xz",
+                "name": "Minecraft Forge (scala-continuations-library)",
+                "type": "Library",
+                "artifact": {
+                  "size": 7956,
+                  "MD5": "ed9b1d27aba8ac4090a3749c4dfc895a",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
+                }
+              },
+              {
+                "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2@jar.pack.xz",
+                "name": "Minecraft Forge (scala-continuations-plugin)",
+                "type": "Library",
+                "artifact": {
+                  "size": 46140,
+                  "MD5": "a8232db22a72a981de6b1399eb86dff7",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
+                }
+              },
+              {
+                "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar.pack.xz",
+                "name": "Minecraft Forge (scala-parser-combinators)",
+                "type": "Library",
+                "artifact": {
+                  "size": 85568,
+                  "MD5": "2e50a7df17680daadacca69f07f8a16d",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
+                }
+              },
+              {
+                "id": "org.scala-lang:scala-reflect:2.11.1@jar.pack.xz",
+                "name": "Minecraft Forge (scala-reflect)",
+                "type": "Library",
+                "artifact": {
+                  "size": 1070312,
+                  "MD5": "84e5dc81c10e2bd74c579c9d0332fdd9",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-reflect-2.11.1.jar.pack.xz"
+                }
+              },
+              {
+                "id": "org.scala-lang:scala-swing_2.11:1.0.1",
+                "name": "Minecraft Forge (scala-swing)",
+                "type": "Library",
+                "artifact": {
+                  "size": 736795,
+                  "MD5": "1d360289e697022a3f57abaad344b28f",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-swing_2.11-1.0.1.jar"
+                }
+              },
+              {
+                "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar.pack.xz",
+                "name": "Minecraft Forge (scala-xml)",
+                "type": "Library",
+                "artifact": {
+                  "size": 217812,
+                  "MD5": "cc891b094a4c32dedc56bfefe9b072ff",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-xml_2.11-1.0.2.jar.pack.xz"
+                }
+              },
+              {
+                "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar.pack.xz",
+                "name": "Minecraft Forge (akka-actor)",
+                "type": "Library",
+                "artifact": {
+                  "size": 746612,
+                  "MD5": "25cb22c3078e9fb3f7a861c912924862",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/akka-actor_2.11-2.3.3.jar.pack.xz"
+                }
+              },
+              {
+                "id": "com.typesafe:config:1.2.1@jar.pack.xz",
+                "name": "Minecraft Forge (typesafe-config)",
+                "type": "Library",
+                "artifact": {
+                  "size": 56636,
+                  "MD5": "10ec4ccabc4e68aac9cf87165ead5d7d",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/config-1.2.1.jar.pack.xz"
+                }
+              },
+              {
+                "id": "lzma:lzma:0.0.1",
+                "name": "Mojang (LZMA)",
+                "type": "Library",
+                "artifact": {
+                  "size": 5762,
+                  "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/lzma-0.0.1.jar"
+                }
+              },
+              {
+                "id": "net.sf.trove4j:trove4j:3.0.3",
+                "name": "Trove4J",
+                "type": "Library",
+                "artifact": {
+                  "size": 2523218,
+                  "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/trove4j-3.0.3.jar"
+                }
+              },
+              {
+                "id": "java3d:vecmath:1.5.2",
+                "name": "Vecmath",
+                "type": "Library",
+                "artifact": {
+                  "size": 318956,
+                  "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/vecmath-1.5.2.jar"
+                }
+              },
+              {
+                "id": "net.sf.jopt-simple:jopt-simple:5.0.3",
+                "name": "Jopt-simple",
+                "type": "Library",
+                "artifact": {
+                  "size": 78175,
+                  "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jopt-simple-5.0.3.jar"
+                }
+              },
+              {
+                "id": "org.apache.maven:maven-artifact:3.5.3",
+                "name": "maven-artifact",
+                "type": "Library",
+                "artifact": {
+                  "size": 54961,
+                  "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/maven-artifact-3.5.3.jar"
+                }
+              },
+              {
+                "id": "net.minecraftforge:MercuriusUpdater:1.12.2",
+                "name": "MercuriusUpdater",
+                "type": "Library",
+                "artifact": {
+                  "size": 15098,
+                  "MD5": "6eb9e61097bee3103a2fdc42746b76a4",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/MercuriusUpdater-1.12.2.jar"
+                }
+              }
+            ]
+          },
+          {
+            "id": "net.optifine:optifine:1.12.2_HD_U_F5",
+            "name": "Optifine",
+            "type": "ForgeMod",
+            "artifact": {
+              "size": 2598821,
+              "MD5": "043ac1db6f7441ea4cf31bcb621aff0b",
+              "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/OptiFine.jar"
+            }
+          },
+          {
+            "id": "mezz:jei:1.12.2-4.14.3.242",
+            "name": "JustEnoughItems",
+            "type": "ForgeMod",
+            "artifact": {
+              "size": 620682,
+              "MD5": "ae6d0e6e873ef6c20f41097dc7fee8c6",
+              "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/jei.jar"
+            }
+          },
+          {
+            "id": "org.blockartistry:dynsurround:1.12.2-3.6.1.0",
+            "name": "DynamicSurroundings",
+            "type": "ForgeMod",
+            "required": {
+              "value": false
+            },
+            "artifact": {
+              "size": 15929762,
+              "MD5": "1a0d50a34941865ff091a492e0612502",
+              "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/DynamicSurroundings.jar"
+            },
+            "subModules": [
+              {
+                "id": "dsurround.cfg",
+                "name": "DynamicSurroundings General Configuration File",
+                "type": "File",
+                "artifact": {
+                  "size": 22179,
+                  "path": "/config/dsurround/dsurround.cfg",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/config/dsurround/dsurround.cfg"
+                }
+              },
+              {
+                "id": "westeros.json",
+                "name": "DynamicSurroundings WesterosCraft Configuration File",
+                "type": "File",
+                "artifact": {
+                  "size": 608,
+                  "MD5": "44eab112ff24d0bd29974c270de868ba",
+                  "path": "/config/dsurround/westeros.json",
+                  "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/config/dsurround/westeros.json"
+                }
+              }
+            ]
+          },
+          {
+            "id": "com.sonicether:seus-renewed:1.0.0",
+            "name": "Sonic Ether's Unbelievable Shaders Renewed",
+            "type": "File",
+            "artifact": {
+              "size": 7062491,
+              "MD5": "e68cc9f8ffc8fad66583b9b2cc05356f",
+              "path": "shaderpacks/SEUS-Renewed.zip",
+              "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/shaderpacks/SEUS-Renewed.zip"
+            }
+          },
+          {
+            "id": "servers.dat",
+            "name": "Saved Client Servers",
+            "type": "File",
+            "artifact": {
+              "size": 84,
+              "MD5": "71d99e229d7d2b8d2a6423e46832a4b8",
+              "path": "servers.dat",
+              "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/servers.dat"
+            }
+          }
+        ]
+      }
+    ]
+  }
