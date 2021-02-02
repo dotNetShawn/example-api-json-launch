@@ -238,14 +238,14 @@
               }
             ]
           },
-          {
-            "id": "SyntecMod1",
-            "name": "SyntecMod1",
-            "type": "ForgeMod",
-            "artifact": {
-              "size": 0,
+         {	
+            "id": "mezz:jei:1.12.dsv2-4.14.3.242",	
+            "name": "JustEnoughItems",	
+            "type": "ForgeMod",	
+            "artifact": {	
+              "size": 620682,	
               "MD5": "",
-              "url": "http://45.142.178.232:8441/dlc/mods/AbyssalCraft-1.12.2-1.10.3.jar"
+              "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/jei.jar"
             }
           },
           {
