@@ -239,23 +239,13 @@
             ]
           },
           {
-            "id": "net.optifine:optifine:1.12.2_HD_U_F5",
-            "name": "Optifine",
+            "id": "SyntecMod1",
+            "name": "SyntecMod1",
             "type": "ForgeMod",
             "artifact": {
-              "size": 2598821,
-              "MD5": "043ac1db6f7441ea4cf31bcb621aff0b",
-              "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/OptiFine.jar"
-            }
-          },
-          {
-            "id": "mezz:jei:1.12.dsv2-4.14.3.242",
-            "name": "JustEnoughItems",
-            "type": "ForgeMod",
-            "artifact": {
-              "size": 620682,
+              "size": 0,
               "MD5": "",
-              "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/jei.jar"
+              "url": "http://45.142.178.232:8441/dlc/mods/AbyssalCraft-1.12.2-1.10.3.jar"
             }
           },
           {
@@ -267,17 +257,6 @@
               "MD5": "e68cc9f8ffc8fad66583b9b2cc05356f",
               "path": "shaderpacks/SEUS-Renewed.zip",
               "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/shaderpacks/SEUS-Renewed.zip"
-            }
-          },
-          {
-            "id": "servers.dat",
-            "name": "Saved Client Servers",
-            "type": "File",
-            "artifact": {
-              "size": 84,
-              "MD5": "71d99e229d7d2b8d2a6423e46832a4b8",
-              "path": "servers.dat",
-              "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/servers.dat"
             }
           }
         ]
