@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "discord": {
     "clientId": "",
     "smallImageText": "",
@@ -15,12 +15,12 @@
       "name": "AgeOfAincrad",
       "description": "AgeOfAincrad Server.",
       "icon": "https://github.com/dotNetShawn/AoA-CommunityLauncher/raw/master/app/assets/images/minecraft.png",
-      "version": "1.1",
+      "version": "1.0",
       "address": "45.142.178.232:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "1.12.2 Production Server",
-        "largeImageText": "AgeOfAincrad Server",
+        "largeImageText": "AgeOfAincrad-Server",
         "largeImageKey": "server-prod"
       },
       "mainServer": true,
