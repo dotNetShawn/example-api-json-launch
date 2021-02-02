@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.8",
   "discord": {
     "clientId": "",
     "smallImageText": "",
@@ -426,6 +426,246 @@
             "size": 0,	
             "MD5": "",
             "url": "http://45.142.178.232:8441/dlc/mods/RedstoneFlux-1.12-2.1.1.1-universal.jar"
+          }
+        },
+        {	
+          "id": "mezz:kuik6:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/TConstruct-1.12.2-2.13.0.183.jar"
+          }
+        },
+        {	
+          "id": "mezz:rtswhwr:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/TFSpellPack-1.1.0-MC1.12.2.jar"
+          }
+        },
+        {	
+          "id": "mezz:45h24h4h:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/TexFix+V-1.12-4.0.jar"
+          }
+        },
+        {	
+          "id": "mezz:1342f43f:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/ThermalExpansion-1.12.2-5.5.7.1-universal.jar"
+          }
+        },
+        {	
+          "id": "mezz:sdjut34:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/ThermalFoundation-1.12.2-2.6.7.1-universal.jar"
+          }
+        },
+        {	
+          "id": "mezz:qf23f23f:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/additionalpipes-6.0.0.8.jar"
+          }
+        },
+        {	
+          "id": "mezz:1324fg34gf:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/ae2stuff-0.7.0.4-mc1.12.2.jar"
+          }
+        },
+        {	
+          "id": "mezz:18459zhg94ff:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/aether_ii-1.12.2-0.3.0+build411-universal.jar"
+          }
+        },
+        {	
+          "id": "mezz:iuregiuerg239845:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/appliedenergistics2-rv6-stable-7.jar"
+          }
+        },
+        {	
+          "id": "mezz:erhglol1345f:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/bdlib-1.14.3.12-mc1.12.2.jar"
+          }
+        },
+        {	
+          "id": "mezz:erhgwqlol2456345f:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/bewitchment-1.12.2-0.0.22.58.jar"
+          }
+        },
+        {	
+          "id": "mezz:erhgwqerlolxx0f:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/buildcraft-all-7.99.24.7.jar"
+          }
+        },
+        {	
+          "id": "mezz:erhgwqelolx001f456345f:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/chiselsandbits-14.33.jar"
+          }
+        },
+        {	
+          "id": "mezz:erhgwqerh456ff1235f:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/foamfix-0.10.11-1.12.2.jar"
+          }
+        },
+        {	
+          "id": "mezz:erhgwq2erasdgre2345f:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/furniture-6.3.1-1.12.2.jar"
+          }
+        },
+        {	
+          "id": "mezz:erh2f2gwqerh45g6345f:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/iChunUtil-1.12.2-7.2.2.jar"
+          }
+        },
+        {	
+          "id": "mezz:erhgwqefrh456k4345f:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/iceandfire-1.9.1-1.12.2.jar"
+          }
+        },
+        {	
+          "id": "mezz:er23rwqerh456345f:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/industrialcraft-2-2.8.170-ex112.jar"
+          }
+        },
+        {	
+          "id": "mezz:hrthqerh456345f:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/jei_1.12.2-4.16.1.301.jar"
+          }
+        },
+        {	
+          "id": "mezz:erqsykexx9rh5f:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/journeymap-1.12.2-5.7.1.jar"
+          }
+        },
+        {	
+          "id": "mezz:syke1:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/llibrary-1.7.20-1.12.2.jar"
+          }
+        },
+        {	
+          "id": "mezz:syke2:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/minecolonies-1.12.2-0.11.804-RELEASE-universal.jar"
+          }
+        },
+        {	
+          "id": "mezz:syke3:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/torohealth-1.12.2-11.jar"
+          }
+        },
+        {	
+          "id": "mezz:syke4:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "SyntecMod5",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/twilightforest-1.12.2-3.11.1021-universal.jar"
           }
         },
         {
