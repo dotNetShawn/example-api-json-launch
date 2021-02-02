@@ -248,6 +248,46 @@
               "url": "http://45.142.178.232:8441/dlc/mods/AbyssalCraft-1.12.2-1.10.3.jar"
             }
           },
+          {	
+            "id": "mezz:jei:1.12.dsv2-4.14.3.242dHELLO2",	
+            "name": "SyntecMod2",	
+            "type": "ForgeMod",	
+            "artifact": {	
+              "size": 0,	
+              "MD5": "",
+              "url": "http://45.142.178.232:8441/dlc/mods/Advanced+Solar+Panels-4.3.0.jar"
+            }
+          },
+          {	
+            "id": "mezz:jei:1.12.dsv2-4.14.3.242dHELLO3",	
+            "name": "SyntecMod3",	
+            "type": "ForgeMod",	
+            "artifact": {	
+              "size": 0,	
+              "MD5": "",
+              "url": "http://45.142.178.232:8441/dlc/mods/Baubles-1.12-1.5.2.jar"
+            }
+          },
+          {	
+            "id": "mezz:jei:1.12.dsv2-4.14.3.242dHELLO4",	
+            "name": "SyntecMod4",	
+            "type": "ForgeMod",	
+            "artifact": {	
+              "size": 0,	
+              "MD5": "",
+              "url": "http://45.142.178.232:8441/dlc/mods/BetterFps-1.4.8.jar"
+            }
+          },
+          {	
+            "id": "mezz:jei:1.12.dsv2-4.14.3.242dHELLO5",	
+            "name": "SyntecMod5",	
+            "type": "ForgeMod",	
+            "artifact": {	
+              "size": 0,	
+              "MD5": "",
+              "url": "http://45.142.178.232:8441/dlc/mods/BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar"
+            }
+          },
           {
             "id": "com.sonicether:seus-renewed:1.0.0",
             "name": "Sonic Ether's Unbelievable Shaders Renewed",
