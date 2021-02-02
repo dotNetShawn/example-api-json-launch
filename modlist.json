@@ -688,6 +688,7 @@
             "MD5": "",
             "path": "servers.dat",
             "url": "https://github.com/dotNetShawn/example-api-json-launch/raw/main/servers.dat"
+          }
         }
       ]
     }
