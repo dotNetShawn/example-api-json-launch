@@ -14,7 +14,7 @@
       "id": "AgeOfAincrad",
       "name": "AgeOfAincrad",
       "description": "AgeOfAincrad Server.",
-      "icon": "https://github.com/dotNetShawn/AoA-CommunityLauncher/raw/master/app/assets/images/aoa-logo-animated.gif",
+      "icon": "https://github.com/dotNetShawn/AoA-CommunityLauncher/raw/master/app/assets/images/minecraft.png",
       "version": "1.1",
       "address": "45.142.178.232:25565",
       "minecraftVersion": "1.12.2",
