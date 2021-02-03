@@ -1,5 +1,5 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.17",
   "discord": {
     "clientId": "",
     "smallImageText": "",
@@ -450,111 +450,111 @@
         },
         {	
           "id": "mezz:45h24h4h:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "TexFix",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 7052,	
+            "MD5": "241A28A767464FA15F9BD642C2D9F673",
             "url": "http://45.142.178.232:8441/dlc/mods/TexFix+V-1.12-4.0.jar"
           }
         },
         {	
           "id": "mezz:1342f43f:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "ThermalExpansion",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 2345139,	
+            "MD5": "0BF91E166B05E83D22455A9C7EC395BB",
             "url": "http://45.142.178.232:8441/dlc/mods/ThermalExpansion-1.12.2-5.5.7.1-universal.jar"
           }
         },
         {	
           "id": "mezz:sdjut34:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "ThermalFoundation",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 2219736,	
+            "MD5": "6ECA041BBF28949B60ECF1179D561156",
             "url": "http://45.142.178.232:8441/dlc/mods/ThermalFoundation-1.12.2-2.6.7.1-universal.jar"
           }
         },
         {	
           "id": "mezz:qf23f23f:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "Additionalpipes",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 227670,	
+            "MD5": "4122CBEEAE8738667008CB04828872C2",
             "url": "http://45.142.178.232:8441/dlc/mods/additionalpipes-6.0.0.8.jar"
           }
         },
         {	
           "id": "mezz:1324fg34gf:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "ae2stuff",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 513374,	
+            "MD5": "8594B7501C1ECC1BDAAA8EF42B7DBDDA",
             "url": "http://45.142.178.232:8441/dlc/mods/ae2stuff-0.7.0.4-mc1.12.2.jar"
           }
         },
         {	
           "id": "mezz:18459zhg94ff:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "Aether2",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 38560383,	
+            "MD5": "08D280804A44DA7C6BC637067D7C90BF",
             "url": "http://45.142.178.232:8441/dlc/mods/aether_ii-1.12.2-0.3.0+build411-universal.jar"
           }
         },
         {	
           "id": "mezz:iuregiuerg239845:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "Appliedenergistics2",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 4062630,	
+            "MD5": "B8667D60A761D5B5AE3C8A15192F9E28",
             "url": "http://45.142.178.232:8441/dlc/mods/appliedenergistics2-rv6-stable-7.jar"
           }
         },
         {	
           "id": "mezz:erhglol1345f:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "BDLib",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 1962731,	
+            "MD5": "D2B8BA08414AC12737EB5ECBF92A19D9",
             "url": "http://45.142.178.232:8441/dlc/mods/bdlib-1.14.3.12-mc1.12.2.jar"
           }
         },
         {	
           "id": "mezz:erhgwqlol2456345f:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "Bewitchment",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 4912924,	
+            "MD5": "A7199C7F21800797E78FEAE4F3264FED",
             "url": "http://45.142.178.232:8441/dlc/mods/bewitchment-1.12.2-0.0.22.58.jar"
           }
         },
         {	
           "id": "mezz:erhgwqerlolxx0f:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "BuildcraftAll",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 4814664,	
+            "MD5": "43A54B9D7BB1ECF2819BA19718FB7ABD",
             "url": "http://45.142.178.232:8441/dlc/mods/buildcraft-all-7.99.24.7.jar"
           }
         },
         {	
           "id": "mezz:erhgwqelolx001f456345f:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "Chiselsandbits",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 737407,	
+            "MD5": "E056E23559965F2EBABF47AAD0FE51A3",
             "url": "http://45.142.178.232:8441/dlc/mods/chiselsandbits-14.33.jar"
           }
         },
