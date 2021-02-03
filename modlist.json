@@ -1,5 +1,5 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "discord": {
     "clientId": "",
     "smallImageText": "",
@@ -260,51 +260,51 @@
         },
         {	
           "id": "mezz:j4ei:1.12.dsv2-4.14.3.242dHELLO3",	
-          "name": "SyntecMod3",	
+          "name": "Baubles",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 108450,	
+            "MD5": "944DEC4EF3FBFD4D498D94A7047AF201",
             "url": "http://45.142.178.232:8441/dlc/mods/Baubles-1.12-1.5.2.jar"
           }
         },
         {	
           "id": "mezz:j5i:1.12.dsv2-4.14.3.242dHELLO4",	
-          "name": "SyntecMod4",	
+          "name": "BetterFps",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 155196,	
+            "MD5": "D36F4D3C0F96E99A9A1AD2E8EEDA1FC4",
             "url": "http://45.142.178.232:8441/dlc/mods/BetterFps-1.4.8.jar"
           }
         },
         {	
           "id": "mezz:j6eirgag:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "\BiomesOPlenty-",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 4696621,	
+            "MD5": "61FCC4FFFF205CA261E61D6772DEBC4D",
             "url": "http://45.142.178.232:8441/dlc/mods/BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar"
           }
         },
         {	
           "id": "mezz:j6wefei:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "CTM-MC",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 199045,	
+            "MD5": "77A8BB5486C97E3EAA6F45E5BD768864",
             "url": "http://45.142.178.232:8441/dlc/mods/CTM-MC1.12.2-1.0.2.31.jar"
           }
         },
         {	
           "id": "mezz:j6fweei:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "CoFHCore",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 848187,	
+            "MD5": "F147D3B87F97BB317E1C37CBA0DDE002",
             "url": "http://45.142.178.232:8441/dlc/mods/CoFHCore-1.12.2-4.6.6.1-universal.jar"
           }
         },
