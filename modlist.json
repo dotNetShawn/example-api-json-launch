@@ -310,91 +310,91 @@
         },
         {	
           "id": "mezz:j6wefei:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "CoFHWorld",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 505987,	
+            "MD5": "F2BFD74E76B71BDEE8A20A9243DD5CDF",
             "url": "http://45.142.178.232:8441/dlc/mods/CoFHWorld-1.12.2-1.4.0.1-universal.jar"
           }
         },
         {	
           "id": "mezz:j6fwefei:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "CodeChickenLib",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 704330,	
+            "MD5": "3B5E44DB5AC96FB23A439590B6731A31",
             "url": "http://45.142.178.232:8441/dlc/mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
           }
         },
         {	
           "id": "mezz:j6efghi:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "Decocraft",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 16747522,	
+            "MD5": "F9A8EB5AC8E45F1438EF937DC48B882B",
             "url": "http://45.142.178.232:8441/dlc/mods/Decocraft-2.6.3_1.12.2.jar"
           }
         },
         {	
           "id": "mezz:j6jk1ei:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "ElectroblobsWizardry",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 10868411,	
+            "MD5": "B1696D67E31455123C37CA5DC5FD753F",
             "url": "http://45.142.178.232:8441/dlc/mods/ElectroblobsWizardry-4.3.3-MC1.12.2.jar"
           }
         },
         {	
           "id": "mezz:j6f1ei:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "JustEnoughEnergistics",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 22714,	
+            "MD5": "BE626DCE632DB45AB61512E5A6D9CDD7",
             "url": "http://45.142.178.232:8441/dlc/mods/JustEnoughEnergistics-1.12.2-1.0.8.jar"
           }
         },
         {	
           "id": "mezz:j6ef2i:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "MCA",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 2459965,	
+            "MD5": "38BC3EFCA9DAEE41F7D43870D1261BD8",
             "url": "http://45.142.178.232:8441/dlc/mods/MCA-1.12.2-6.1.0-universal.jar"
           }
         },
         {	
           "id": "mezz:j6f4ei:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "Mantle",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 843486,	
+            "MD5": "1026F5F8D3C4997831DECD9023CA65A6",
             "url": "http://45.142.178.232:8441/dlc/mods/Mantle-1.12-1.3.3.55.jar"
           }
         },
         {	
           "id": "mezz:j6ef7i:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "Morph",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 1061182,	
+            "MD5": "15AE8DC0F0E92B4AEA9E49E48380DC1D",
             "url": "http://45.142.178.232:8441/dlc/mods/Morph-1.12.2-7.2.1.jar"
           }
         },
         {	
           "id": "mezz:j612ei:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "OptiFine",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 2669107,	
+            "MD5": "54E561E441192CF009803AE95873C5D0",
             "url": "http://45.142.178.232:8441/dlc/mods/OptiFine_1.12.2_HD_U_G5.jar"
           }
         },
