@@ -1,5 +1,5 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "discord": {
     "clientId": "",
     "smallImageText": "",
@@ -280,7 +280,7 @@
         },
         {	
           "id": "mezz:j6eirgag:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "\BiomesOPlenty-",	
+          "name": "BiomesOPlenty",	
           "type": "ForgeMod",	
           "artifact": {	
             "size": 4696621,	
