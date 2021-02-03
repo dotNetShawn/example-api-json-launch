@@ -1,5 +1,5 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "discord": {
     "clientId": "",
     "smallImageText": "",
@@ -560,51 +560,51 @@
         },
         {	
           "id": "mezz:erhgwqerh456ff1235f:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "foamfix",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 210423,	
+            "MD5": "005B3D124DF67E4C2CA7C1AEB1B2CB7C",
             "url": "http://45.142.178.232:8441/dlc/mods/foamfix-0.10.11-1.12.2.jar"
           }
         },
         {	
           "id": "mezz:erhgwq2erasdgre2345f:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "Furniture",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 2435626,	
+            "MD5": "7E4F4D160032658E095EFF8221977800",
             "url": "http://45.142.178.232:8441/dlc/mods/furniture-6.3.1-1.12.2.jar"
           }
         },
         {	
           "id": "mezz:erh2f2gwqerh45g6345f:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "iChunUtil",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 581963,	
+            "MD5": "BF13A2044ECE544B449C7DC6F8AA40AF",
             "url": "http://45.142.178.232:8441/dlc/mods/iChunUtil-1.12.2-7.2.2.jar"
           }
         },
         {	
           "id": "mezz:erhgwqefrh456k4345f:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "iceandfire",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 20467820,	
+            "MD5": "58C453B85285C4E82CFC6FAD35FFB537",
             "url": "http://45.142.178.232:8441/dlc/mods/iceandfire-1.9.1-1.12.2.jar"
           }
         },
         {	
           "id": "mezz:er23rwqerh456345f:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "Industrialcraft2",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 8356436,	
+            "MD5": "D4F952C94CACDD280ABBB73F072B2424",
             "url": "http://45.142.178.232:8441/dlc/mods/industrialcraft-2-2.8.170-ex112.jar"
           }
         },
