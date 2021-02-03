@@ -1,5 +1,5 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "discord": {
     "clientId": "",
     "smallImageText": "",
@@ -400,51 +400,51 @@
         },
         {	
           "id": "mezz:j6e123i:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "PTRLib",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 169483,	
+            "MD5": "7CDDE85216395ABE430A7FF185650370",
             "url": "http://45.142.178.232:8441/dlc/mods/PTRLib-1.0.4.jar"
           }
         },
         {	
           "id": "mezz:j61145ei:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "Patchouli",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 472464,	
+            "MD5": "5450477C1CE7189C5EE11595D5E03A7C",
             "url": "http://45.142.178.232:8441/dlc/mods/Patchouli-1.0-23.6.jar"
           }
         },
         {	
           "id": "mezz:j6esdgi:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "RedstoneFlux",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 31802,	
+            "MD5": "93B1715F05BE1878DA93FCA36DD37F2A",
             "url": "http://45.142.178.232:8441/dlc/mods/RedstoneFlux-1.12-2.1.1.1-universal.jar"
           }
         },
         {	
           "id": "mezz:kuik6:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "TConstruct",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 4023372,	
+            "MD5": "710D64342D41042B7D6CED891448E727",
             "url": "http://45.142.178.232:8441/dlc/mods/TConstruct-1.12.2-2.13.0.183.jar"
           }
         },
         {	
           "id": "mezz:rtswhwr:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "name": "TFSpellPack",	
           "type": "ForgeMod",	
           "artifact": {	
-            "size": 0,	
-            "MD5": "",
+            "size": 771958,	
+            "MD5": "C999304A6F0DE4FC7B8035B8CA82A00E",
             "url": "http://45.142.178.232:8441/dlc/mods/TFSpellPack-1.1.0-MC1.12.2.jar"
           }
         },
