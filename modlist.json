@@ -629,8 +629,78 @@
           }
         },
         {	
-          "id": "mezz:erqsykexx9rh5f:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "id": "mezz:Hwyla:1.12.dsv2-4.14.3.242",	
+          "name": "Hwyla",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/update2/mods/Hwyla-1.8.26-B41_1.12.2.jar"
+          }
+        },
+        {	
+          "id": "mezz:ThermalDynamics:1.12.dsv2-4.14.3.242",	
+          "name": "ThermalDynamics",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/update2/mods/ThermalDynamics-1.12.2-2.5.6.1-universal.jar"
+          }
+        },
+        {	
+          "id": "mezz:TinkerToolLeveling:1.12.dsv2-4.14.3.242",	
+          "name": "TinkerToolLeveling",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/update2/mods/TinkerToolLeveling-1.12.2-1.1.0.jar"
+          }
+        },
+        {	
+          "id": "mezz:conarm:1.12.dsv2-4.14.3.242",	
+          "name": "conarm",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/update2/mods/conarm-1.12.2-1.2.5.10.jar"
+          }
+        },
+        {	
+          "id": "mezz:gravestone:1.12.dsv2-4.14.3.242",	
+          "name": "gravestone",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/update2/mods/gravestone-1.10.3.jar"
+          }
+        },
+        {	
+          "id": "mezz:ironchest:1.12.dsv2-4.14.3.242",	
+          "name": "ironchest",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/update2/mods/ironchest-1.12.2-7.0.72.847.jar"
+          }
+        },
+        {	
+          "id": "mezz:torchmaster:1.12.dsv2-4.14.3.242",	
+          "name": "torchmaster",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/update2/mods/torchmaster_1.12.2-1.8.4.84.jar"
+          }
+        },
+        {	
+          "id": "mezz:journeymap:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "journeymap",	
           "type": "ForgeMod",	
           "artifact": {	
             "size": 0,	
@@ -639,8 +709,8 @@
           }
         },
         {	
-          "id": "mezz:syke1:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "SyntecMod5",	
+          "id": "mezz:llibrary:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "llibrary",	
           "type": "ForgeMod",	
           "artifact": {	
             "size": 0,	
