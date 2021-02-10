@@ -619,6 +619,16 @@
           }
         },
         {	
+          "id": "mezz:BiblioCraft:1.12.dsv2-4.14.3.242dHELLO5",	
+          "name": "BiblioCraft",	
+          "type": "ForgeMod",	
+          "artifact": {	
+            "size": 0,	
+            "MD5": "",
+            "url": "http://45.142.178.232:8441/dlc/mods/update2/mods/BiblioCraft%5bv2.4.5%5d%5bMC1.12.2%5d.jar"
+          }
+        },
+        {	
           "id": "mezz:erqsykexx9rh5f:1.12.dsv2-4.14.3.242dHELLO5",	
           "name": "SyntecMod5",	
           "type": "ForgeMod",	
