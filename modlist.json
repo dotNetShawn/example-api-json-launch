@@ -309,16 +309,6 @@
           }
         },
         {	
-          "id": "mezz:j6wefei:1.12.dsv2-4.14.3.242dHELLO5",	
-          "name": "CoFHWorld",	
-          "type": "ForgeMod",	
-          "artifact": {	
-            "size": 505987,	
-            "MD5": "F2BFD74E76B71BDEE8A20A9243DD5CDF",
-            "url": "http://45.142.178.232:8441/dlc/mods/CoFHWorld-1.12.2-1.4.0.1-universal.jar"
-          }
-        },
-        {	
           "id": "mezz:j6fwefei:1.12.dsv2-4.14.3.242dHELLO5",	
           "name": "CodeChickenLib",	
           "type": "ForgeMod",	
@@ -477,6 +467,20 @@
             "MD5": "6ECA041BBF28949B60ECF1179D561156",
             "url": "http://45.142.178.232:8441/dlc/mods/ThermalFoundation-1.12.2-2.6.7.1-universal.jar"
           }
+          "subModules": [
+            {
+              {	
+                "id": "mezz:j6wefei:1.12.dsv2-4.14.3.242dHELLO5",	
+                "name": "CoFHWorld",	
+                "type": "ForgeMod",	
+                "artifact": {	
+                  "size": 505987,	
+                  "MD5": "F2BFD74E76B71BDEE8A20A9243DD5CDF",
+                  "url": "http://45.142.178.232:8441/dlc/mods/CoFHWorld-1.12.2-1.4.0.1-universal.jar"
+                }
+              }
+            }
+          ]
         },
         {	
           "id": "mezz:qf23f23f:1.12.dsv2-4.14.3.242dHELLO5",	
